@@ -12,3 +12,6 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Raw test data
+data/raw/
