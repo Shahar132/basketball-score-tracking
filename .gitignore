@@ -15,3 +15,6 @@ Thumbs.db
 
 # Raw test data
 data/raw/
+
+# Training datasets
+data/training/
