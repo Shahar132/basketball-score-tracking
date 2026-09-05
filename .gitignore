@@ -18,3 +18,9 @@ data/raw/
 
 # Training datasets
 data/training/
+
+# Temporary merged dataset
+data/merged/
+
+# Final processed datasets
+data/processed/
